@@ -22,7 +22,7 @@ The purpose of this project is to familirize the beginners with Git and Github. 
         - How to pull the commits from remote repository and merge them into the local repository
         - How to stash the changes.
 
-     - Explained 15 Git commands which are essential to know and are frequently used with screenshots.**>>>** [Read](https://github.com/sujitha-testorg/Assignment1-GIT/blob/main/Task1_gitcommands.md)
+     - Explained 15 Git commands with screenshots which are essential to know and are frequently used.**>>>** [Read](https://github.com/sujitha-testorg/Assignment1-GIT/blob/main/Task1_gitcommands.md)
  
  - Created an orgnaization account
     - Added 2 collaborators

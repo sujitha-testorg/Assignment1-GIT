@@ -22,7 +22,7 @@ Includes:
         - How to stash the changes.
 
  - 
-     - Explained 15 Git commands which are essential to know and are frequently used with screenshots. [Read](https://github.com/sujitha-testorg/Assignment1-GIT/blob/main/README.md)
+     - Explained 15 Git commands which are essential to know and are frequently used with screenshots. [Read](https://github.com/sujitha-testorg/Assignment1-GIT/blob/main/Task1_gitcommands.md)
  
  - Created an orgnaization account
     - Added 2 collaborators

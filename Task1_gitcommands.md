@@ -1,4 +1,4 @@
-### Task 1: Demonstrate minimum 15 basic Git command with explanation and screenshot.
+### 15 basic Git command with explanation and screenshot.
 
 <!-- git clone  -->
 <details><summary><b>  1. git clone </b></summary>  

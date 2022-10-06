@@ -1,6 +1,5 @@
 # Assignment1-GIT
 
-
 The purpose of this project is to familirize the beginners with Git and Github. The task enrolled in this project will help beginners to under better on git and github environment. Practicing Git and Github is highly essential for the one who is equip themselves towards Industry Ready IT Jobs.
 
 #### Includes:
@@ -29,4 +28,3 @@ The purpose of this project is to familirize the beginners with Git and Github. 
     - Managed Member previleges
         - Giving Read and write access to the members of the organization
         - Branch privileges : Restrict 'merge pull requests' by collaborators and only admin can approve and merge pull requests
-        - 

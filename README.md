@@ -1,6 +1,6 @@
 # Assignment 1 GIT
 
-The purpose of this project is to familirize the beginners with Git and Github. The task enrolled in this project will help beginners to under better on git and github environment. Practicing Git and Github is highly essential for the one who is preparing towards Industry Ready IT Jobs.
+The purpose of this Assignment is to familirize the beginners with Git and Github. The task enrolled in this project will help beginners to under better on git and github environment. Practicing Git and Github is highly essential for the one who is preparing towards Industry Ready IT Jobs.
 
 ## Includes:
 1. Environment setup (Installations and setups)
@@ -78,4 +78,5 @@ The purpose of this project is to familirize the beginners with Git and Github. 
    - Git Commands: Course Videos from iNeuron, https://www.atlassian.com/git/glossary
    - Git hub: https://youtu.be/bVM-QujJ0AI, open source references
 
-
+## Assignment Summary:
+   - https://github.com/sujitha-testorg/Assignment1-GIT/blob/main/Assignment_summary.md

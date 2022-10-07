@@ -74,8 +74,8 @@ The purpose of this project is to familirize the beginners with Git and Github. 
          - Create a new release (Test release)
 
 ## References:
-Environment setup: https://youtu.be/bVM-QujJ0AI
-Git Commands: Course Videos from iNeuron, https://www.atlassian.com/git/glossary
-Git hub: https://youtu.be/bVM-QujJ0AI, open source references
+   - Environment setup: https://youtu.be/bVM-QujJ0AI
+   - Git Commands: Course Videos from iNeuron, https://www.atlassian.com/git/glossary
+   - Git hub: https://youtu.be/bVM-QujJ0AI, open source references
 
 

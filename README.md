@@ -2,14 +2,17 @@
 
 The purpose of this project is to familirize the beginners with Git and Github. The task enrolled in this project will help beginners to under better on git and github environment. Practicing Git and Github is highly essential for the one who is equip themselves towards Industry Ready IT Jobs.
 
-#### Includes:
-1. Environment setup (Installations and setups)   
+## Includes:
+
+1. Environment setup (Installations and setups)
+   
    - anaconda
    - python
    - git scm
    - vscode
 
-2. Understanding the Git commands:
+2. Understanding the Git commands
+   - 
    - Exercise the necessary git commands for the following tasks.
       - How to initialization the git in local system
       - How to clone the remote repository to local system
@@ -21,7 +24,7 @@ The purpose of this project is to familirize the beginners with Git and Github. 
       - How to pull the commits from remote repository and merge them into the local repository
       - How to stash the changes.
 
-   - Explained 15 Git commands with screenshots which are essential to know and are frequently used.**>>>** [Read](https://github.com/sujitha-testorg/Assignment1-GIT/blob/main/Task1_gitcommands.md)
+   - Explained 15 Git commands with screenshots which are essential to know and are frequently used.>>>> [Read](https://github.com/sujitha-testorg/Assignment1-GIT/blob/main/Task1_gitcommands.md)
  
 3. Understanding the Github
    - 

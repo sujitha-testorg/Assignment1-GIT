@@ -66,7 +66,14 @@ The purpose of this project is to familirize the beginners with Git and Github. 
          - Adding depandabot.yml and made minimal changes in .yml file.
             - Adding package ecosystem
             - Adding interval for dependency check
-      - **Add Depandabot Alerts**  
+      - **Project Board**
+         - Create a project board for the repository
+         - Add project to the repository
+         - Added basic columns (Todo, Inprogress, Done)
+         - Enabling the workflow of the project board.
+      - **New Release**
+         - Create a new release (Test release)
+         
 
 
 

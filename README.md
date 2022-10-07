@@ -3,7 +3,6 @@
 The purpose of this project is to familirize the beginners with Git and Github. The task enrolled in this project will help beginners to under better on git and github environment. Practicing Git and Github is highly essential for the one who is preparing towards Industry Ready IT Jobs.
 
 ## Includes:
-
 1. Environment setup (Installations and setups)
    - 
    - anaconda
@@ -73,8 +72,10 @@ The purpose of this project is to familirize the beginners with Git and Github. 
          - Enabling the workflow of the project board.
       - **New Release**
          - Create a new release (Test release)
-         
 
-
+## References:
+Environment setup: https://youtu.be/bVM-QujJ0AI
+Git Commands: Course Videos from iNeuron, https://www.atlassian.com/git/glossary
+Git hub: https://youtu.be/bVM-QujJ0AI, open source references
 
 

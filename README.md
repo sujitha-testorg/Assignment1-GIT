@@ -1,4 +1,4 @@
-# Assignment1-GIT
+# Assignment 1 GIT
 
 The purpose of this project is to familirize the beginners with Git and Github. The task enrolled in this project will help beginners to under better on git and github environment. Practicing Git and Github is highly essential for the one who is preparing towards Industry Ready IT Jobs.
 
